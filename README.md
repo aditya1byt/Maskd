@@ -131,7 +131,7 @@ Every message sent through Maskd is inspected by an integrated **AI Moderation L
 
 ## 🤝 Contributing
 
-Contributions, ideas, and feature requests are welcome! Feel free to check the [issues page](https://github.com/aditya1byt/Maskd/issues).
+Contributions, ideas, and feature requests are warmly welcome! Feel free to check the [issues page](https://github.com/aditya1byt/Maskd/issues).
 
 ---
 
